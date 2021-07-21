@@ -1,4 +1,5 @@
-# task-generation
+# Task-generation tutorial
+Created using the following YouTube tutorial: https://www.youtube.com/watch?v=qZXt1Aom3Cs
 
 ## Useful Vue Commands
 Create app: `vue create task-generation`  
